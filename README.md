@@ -1,5 +1,5 @@
 # Data-Analysis-Ecommerce-Project
-Pendahuluan
+
 Projek ini adalah sebuah analisis data yang bertujuan untuk memahami performa metode pembayaran dalam dataset Pakistan Largest Ecommerce Dataset. Pertanyaan utama yang ingin dijawab adalah, "Bagaimana performa metode pembayaran dilihat dari keberhasilan transaksi dan nominal pendapatannya?" Analisis ini akan memberikan wawasan yang berharga bagi bisnis e-commerce untuk meningkatkan efisiensi dan keuntungan.
 
 Langkah-Langkah Analisis
